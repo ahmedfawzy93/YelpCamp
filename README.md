@@ -1,7 +1,5 @@
 # YelpCamp
- YelpCamp Educational Project
- 
- This my first full stack project
+ YelpCamp Educational Project - This my first full stack project. 
  
  Its deployed on heroku on this link  https://fawzy-yelp-camp.herokuapp.com/
  
