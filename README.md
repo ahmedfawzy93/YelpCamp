@@ -8,8 +8,10 @@
   - mongodb
   - Several other packages 
   All the dependancies can be found in the package.json file
+
 Authors: 
 - Ahmed Fawzy
+
 Acknowlgment 
 - Colt Steele 
 - Ian Schoonover 
